@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    background-color: blue;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.btn {
+    margin: 10px;
+    width: 7%;
+    border: none;
+    border-radius: 30px;
+    background-color: darkblue;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.main {
+    background-color: #fff;
+    min-height: 40vh;
+    margin: 20px 30px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 1px solid whitesmoke;
+
+}
+
+.val {
+    width: 20%;
+    margin: 20px;
+    border: none;
+    border-radius: 30px;
+    background-color: darkblue;
+    color: white;
+    font-size: 20px;
+}
+
+.reset {
+    width: 15%;
+    padding: 5px;
+    border: none;
+    border-radius: 30px;
+    background-color: lightgrey;
+    cursor: pointer;
+}
